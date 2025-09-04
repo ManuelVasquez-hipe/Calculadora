@@ -3,7 +3,7 @@ import math
 def calculadora():
     while True:
         print("\n ==== calculadora de python")
-        print("Suma")
+        print("Suma") 
         print("Resta")
         print("Multiplicación")
         print("Division")
@@ -39,3 +39,5 @@ def calculadora():
            resultado = (num1 * num2) / 100
            print(f"el resultado del porcentaje es {resultado}")
 calculadora()
+
+#Mi parte
